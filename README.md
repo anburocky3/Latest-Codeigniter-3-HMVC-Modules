@@ -1,18 +1,24 @@
 # Latest-Codeigniter-3.1.5-HMVC-Modules
 
-What this repository contains?
-#1. Codeigniter V3.1.5 (https://codeigniter.com/download)
-#2. HMVC Modules (https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc)
+<h4>What this repository contains?</h4>
+<ol>
+	<li> Codeigniter V3.1.5 (<a href="https://codeigniter.com/download" target="_blank">https://codeigniter.com/download</a>)</li>
+	<li> HMVC Modules (<a href="https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc" target="_blank">https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc</a>)</li>	
+</ol>
 
-How to use these?
-#1. First, Understand how HMVC works by googling on internet.
-#2. Create your own controller logic by navigating to applications/modules/logic/controllers
-#4. Likewise create your own model logic by navigating to applications/modules/logic/models
-#5. Do the same for view files by navigating to applications/modules/logic/views
+<h4>How to use these?</h4>
+<ol>
+	<li> First, Understand how HMVC works by googling on internet.</li>
+	<li> Create your own controller logic by navigating to applications/modules/logic/controllers</li>
+	<li> Likewise create your own model logic by navigating to applications/modules/logic/models</li>
+	<li> Do the same for view files by navigating to applications/modules/logic/views</li>
+</ol>
 
-What fixed?
-#1. Fixed Loader.php file due to _ci_object_to_array error
+<h4>What fixed?</h4>
+<ol>
+	<li>Fixed Loader.php file due to <code>_ci_object_to_array error</code></li>
+</ol>
 
-Uploader: (https://fb.me/anburocky3)
+<p>Uploader: (<a href="https://fb.me/anburocky3" target="_blank">https://fb.me/anburocky3</a>)</p>
 
 
